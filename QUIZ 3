@@ -1,0 +1,5 @@
+String rev="";
+		for(char i:arr)
+			rev=i+rev;
+			System.out.println(rev);
+	}
